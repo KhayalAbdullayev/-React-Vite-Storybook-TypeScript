@@ -1,0 +1,52 @@
+PS C:\Users\xeyal\Downloads\ComponentForge> cd  C:\Users\xeyal\Downloads\ComponentForge
+PS C:\Users\xeyal\Downloads\ComponentForge> npx vite --config vite.config.ts
+X [ERROR] Could not resolve "C:\\Users\\xeyal\\Downloads\\ComponentForge\\vite.config.ts"
+
+failed to load config from C:\Users\xeyal\Downloads\ComponentForge\vite.config.ts
+error when starting dev server:
+Error: Build failed with 1 error:
+error: Could not resolve "C:\\Users\\xeyal\\Downloads\\ComponentForge\\vite.config.ts"
+    at failureErrorWithLog (C:\Users\xeyal\node_modules\esbuild\lib\main.js:1467:15)
+    at C:\Users\xeyal\node_modules\esbuild\lib\main.js:926:25
+    at runOnEndCallbacks (C:\Users\xeyal\node_modules\esbuild\lib\main.js:1307:45)
+    at buildResponseToResult (C:\Users\xeyal\node_modules\esbuild\lib\main.js:924:7)
+    at C:\Users\xeyal\node_modules\esbuild\lib\main.js:951:16
+    at responseCallbacks.<computed> (C:\Users\xeyal\node_modules\esbuild\lib\main.js:603:9)
+    at handleIncomingPacket (C:\Users\xeyal\node_modules\esbuild\lib\main.js:658:12)
+    at Socket.readFromStdout (C:\Users\xeyal\node_modules\esbuild\lib\main.js:581:7)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+PS C:\Users\xeyal\Downloads\ComponentForge> npm install -g tsx
+
+added 5 packages in 850ms
+
+2 packages are looking for funding
+  run `npm fund` for details
+PS C:\Users\xeyal\Downloads\ComponentForge> tsx server/index.ts
+
+node:internal/modules/run_main:122
+    triggerUncaughtException(
+    ^
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module 'C:\Users\xeyal\Downloads\ComponentForge\server\index.ts' imported from C:\Users\xeyal\Downloads\ComponentForge\
+    at finalizeResolution (node:internal/modules/esm/resolve:275:11)
+    at moduleResolve (node:internal/modules/esm/resolve:860:10)
+    at defaultResolve (node:internal/modules/esm/resolve:984:11)
+    at nextResolve (node:internal/modules/esm/hooks:748:28)
+    at resolveBase (file:///C:/Users/xeyal/AppData/Roaming/npm/node_modules/tsx/dist/esm/index.mjs?1754744480826:2:3811)
+    at resolveDirectory (file:///C:/Users/xeyal/AppData/Roaming/npm/node_modules/tsx/dist/esm/index.mjs?1754744480826:2:4310)
+    at resolveTsPaths (file:///C:/Users/xeyal/AppData/Roaming/npm/node_modules/tsx/dist/esm/index.mjs?1754744480826:2:5051)
+    at resolve (file:///C:/Users/xeyal/AppData/Roaming/npm/node_modules/tsx/dist/esm/index.mjs?1754744480826:2:5428)
+    at nextResolve (node:internal/modules/esm/hooks:748:28)
+    at Hooks.resolve (node:internal/modules/esm/hooks:240:30) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///C:/Users/xeyal/Downloads/ComponentForge/server/index.ts'
+}
+
+Node.js v22.14.0
+PS C:\Users\xeyal\Downloads\ComponentForge> npm run dev
+npm error Missing script: "dev"
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run
+npm error A complete log of this run can be found in: C:\Users\xeyal\AppData\Local\npm-cache\_logs\2025-08-09T13_01_45_519Z-debug-0.log
+PS C:\Users\xeyal\Downloads\ComponentForge> 
