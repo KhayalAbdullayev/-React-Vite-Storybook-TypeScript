@@ -13,7 +13,7 @@ export interface InputProps extends Omit<React.InputHTMLAttributes<HTMLInputElem
 const Input = forwardRef<HTMLInputElement, InputProps>(
   ({ className, type = 'text', clearable = false, size = 'medium', label, error, ...props }, ref) => {
     const [inputType, setInputType] = useState(type);
-    const [value, setValue] = useState(props.value || props.defaultValue || '');
+    const [value, setValue] = useState(props.defaultValue || '');
     const [isFocused, setIsFocused] = useState(false);
 
     const isPassword = type === 'password';
