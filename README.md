@@ -4,6 +4,7 @@ A comprehensive React component library built with TypeScript, featuring smart I
 
  ![Image Alt](https://github.com/KhayalAbdullayev/-React-Vite-Storybook-TypeScript/blob/c670797d68059eee56efaa59cbdbb29df510a19c/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-09%20232805.png)
 
+More screenshots are available in the ##Photos## section below.
 ## 🚀 Features
 
 ### 📝 Smart Input Component
@@ -66,6 +67,16 @@ A comprehensive React component library built with TypeScript, featuring smart I
 
 ## 📖 Component Documentation
 
+ ##Photos##
+ ![Image Alt](https://github.com/KhayalAbdullayev/-React-Vite-Storybook-TypeScript/blob/0940aa22caacceaf14bacb64db0a11b1c4758e6f/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-09%20232823.png)
+ ![Image Alt](https://github.com/KhayalAbdullayev/-React-Vite-Storybook-TypeScript/blob/0940aa22caacceaf14bacb64db0a11b1c4758e6f/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-09%20232830.png)
+ ![Image Alt](https://github.com/KhayalAbdullayev/-React-Vite-Storybook-TypeScript/blob/0940aa22caacceaf14bacb64db0a11b1c4758e6f/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-09%20232839.png)
+ ![Image Alt](https://github.com/KhayalAbdullayev/-React-Vite-Storybook-TypeScript/blob/0940aa22caacceaf14bacb64db0a11b1c4758e6f/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-09%20232921.png)
+ ![Image Alt](https://github.com/KhayalAbdullayev/-React-Vite-Storybook-TypeScript/blob/0940aa22caacceaf14bacb64db0a11b1c4758e6f/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-09%20232928.png)
+
+
+
+
 ### Input Component
 
 ```tsx
@@ -95,11 +106,5 @@ import { Input } from '@/components/library';
 />
 
 
- ![Image Alt](https://github.com/KhayalAbdullayev/-React-Vite-Storybook-TypeScript/blob/0940aa22caacceaf14bacb64db0a11b1c4758e6f/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-09%20232823.png)
- ![Image Alt](https://github.com/KhayalAbdullayev/-React-Vite-Storybook-TypeScript/blob/0940aa22caacceaf14bacb64db0a11b1c4758e6f/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-09%20232830.png)
- ![Image Alt](https://github.com/KhayalAbdullayev/-React-Vite-Storybook-TypeScript/blob/0940aa22caacceaf14bacb64db0a11b1c4758e6f/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-09%20232839.png)
- ![Image Alt](https://github.com/KhayalAbdullayev/-React-Vite-Storybook-TypeScript/blob/0940aa22caacceaf14bacb64db0a11b1c4758e6f/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-09%20232921.png)
- ![Image Alt](https://github.com/KhayalAbdullayev/-React-Vite-Storybook-TypeScript/blob/0940aa22caacceaf14bacb64db0a11b1c4758e6f/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-09%20232928.png
-)
 
 
