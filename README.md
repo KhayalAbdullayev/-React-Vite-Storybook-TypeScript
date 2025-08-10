@@ -91,9 +91,4 @@ import { Input } from '@/components/library';
   label="Search"
   defaultValue="Clear me"
 />
-<img width="1626" height="721" alt="Ekran görüntüsü 2025-08-09 232830" src="https://github.com/user-attachments/assets/0ea86779-3287-41b1-9964-0bdeffcd5ac6" />
-<img width="1637" height="722" alt="Ekran görüntüsü 2025-08-09 232823" src="https://github.com/user-attachments/assets/cbe26f31-02dc-4cf6-a7af-59510a96e181" />
-<img width="1628" height="727" alt="Ekran görüntüsü 2025-08-09 232805" src="https://github.com/user-attachments/assets/23930997-dcb4-4260-b357-5e328f65636b" />
-<img width="1260" height="445" alt="Ekran görüntüsü 2025-08-09 232928" src="https://github.com/user-attachments/assets/93c79dce-8440-4186-8565-e3b37e1e42c0" />
-<img width="1174" height="456" alt="Ekran görüntüsü 2025-08-09 232921" src="https://github.com/user-attachments/assets/41f58505-b731-4fe6-b382-8f7b26d08dd2" />
-<img width="398" height="715" alt="Ekran görüntüsü 2025-08-09 232839" src="https://github.com/user-attachments/assets/aa01d941-3011-48ef-9457-5b2871d20fcc" />
+
