@@ -2,6 +2,8 @@
 
 A comprehensive React component library built with TypeScript, featuring smart Input components, Toast notifications, and animated Sidebar Menu components. This project demonstrates modern React development practices with Storybook integration for component documentation and testing.
 
+ ![Image Alt](https://github.com/KhayalAbdullayev/-React-Vite-Storybook-TypeScript/blob/c670797d68059eee56efaa59cbdbb29df510a19c/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-09%20232805.png)
+
 ## 🚀 Features
 
 ### 📝 Smart Input Component
